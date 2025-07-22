@@ -1,4 +1,4 @@
-# 🎮 Aniket's Game Dev Portfolio
+# 🎮 Aniket Game Dev Portfolio
 
 **Beginner Game Developer | Unreal Engine 5 | FPS & Mechanics Prototypes**
 
