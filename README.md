@@ -17,7 +17,7 @@ Hi, I’m Aniket Sahani — exploring game development through Unreal Engine. I'
 - 🔫 Shooting, Damage, Health System
 - 👣 Enemy Pathfinding
 
-📂 [Project Details](projects/ThirdPersonShooterAI/README.md)
+📂 [Project Details](https://github.com/Aniket404Code/Third-Person-Shooter.git)
 
 ---
 
