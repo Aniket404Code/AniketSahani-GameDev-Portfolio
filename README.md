@@ -31,8 +31,7 @@ Hi, I’m Aniket Sahani — exploring game development through Unreal Engine. I'
 - 📐 Physics simulation
 - 🧱 Obstacle avoidance and collision
 
-📂 [Project Details](projects/BallShootObstacle/README.md)
-
+📂 [Project Details](https://github.com/Aniket404Code/Ball-Shoot.git)
 ---
 
 ## 📫 Contact
