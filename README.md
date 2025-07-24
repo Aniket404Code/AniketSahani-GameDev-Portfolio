@@ -2,7 +2,10 @@
 
 **Beginner Game Developer | Unreal Engine 5 | FPS & Mechanics Prototypes**
 
-Hi, I’m Aniket Sahani — exploring game development through Unreal Engine. I'm passionate about creating combat systems, game mechanics, and AI behavior. Here are a few small projects I’ve built so far.
+Hi, I’m Aniket Sahani — exploring game development through Unreal Engine. I'm passionate about creating combat systems, game mechanics, and AI behavior. I'm looking for opportunities to upskill my work and continue pursuing my passion for building and playing games — and ultimately be part of creating experiences that truly immerse players.
+
+I admire games like GTA , Mario, God Of War,NFS, Amazing SpiderMan and many more that have a next-level craze — where players forget their worries and completely lose themselves in another world. 
+Here are a few small projects I’ve built so far.That’s the kind of experience I dream of building — something that makes players forget reality for a while.
 
 ---
 
