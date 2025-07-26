@@ -19,8 +19,9 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 🧠 AI using Behavior Trees and Blackboards
 - 🔫 Shooting, Damage, Health System
 - 👣 Enemy Pathfinding
-
-📂 [Project Details](https://github.com/Aniket404Code/Third-Person-Shooter.git)
+  
+## 📂 Project Detail 
+ [<img width="300" height="200" alt="SimpleShooter" src="https://github.com/user-attachments/assets/7e295e52-4c35-42a9-8d4d-78d79692cdd5" />](https://github.com/Aniket404Code/Third-Person-Shooter.git)
 
 ---
 
@@ -34,7 +35,8 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 📐 Physics simulation
 - 🧱 Obstacle avoidance and collision
 
-📂 [Project Details](https://github.com/Aniket404Code/Ball-Shoot.git)
+## 📂 Project Details
+[<img width="300" height="200" alt="screeshot1" src="https://github.com/user-attachments/assets/ae828cd4-d8cd-491e-91da-9a2a7e741665" />](https://github.com/Aniket404Code/Ball-Shoot.git)
 
 ---
 
