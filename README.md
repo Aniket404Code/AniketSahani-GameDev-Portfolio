@@ -43,7 +43,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 ## 📫 Contact
 
 - 📧 aniketsahani828@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/aniket-dev) 
+- 💼 [LinkedIn](www.linkedin.com/in/aniket-sahani-bb90ab225) 
 - 🧠 Learning: Unreal Engine, AI, FPS Systems
 
 ---
