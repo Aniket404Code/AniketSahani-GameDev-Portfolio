@@ -43,9 +43,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 ## 📫 Contact
 
 - 📧 aniketsahani828@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/aniket-sahani-bb90ab225) 
-- 🧠 Learning: Unreal Engine, AI, FPS Systems
-
 ---
 
-> “Every small game is a step toward building something amazing.” 🚀
+- 🧠 Learning: Unreal Engine, AI, FPS Systems
+>  “Every small game is a step toward building something amazing.” 🚀
