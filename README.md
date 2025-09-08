@@ -4,15 +4,23 @@
 
 Hi, I’m Aniket Sahani — exploring game development through Unreal Engine. I'm passionate about creating combat systems, game mechanics, and AI behavior. I'm looking for opportunities to upskill my work and continue pursuing my passion for building and playing games — and ultimately be part of creating experiences that truly immerse players.
 
-I admire games like GTA , Mario, God Of War,NFS, Amazing SpiderMan and many more that have a next-level craze — where players forget their worries and completely lose themselves in another world. 
+I admire games like COD , Battlefield , Devil May Cry , GTA , Mario, God Of War,NFS, Amazing SpiderMan and many more that have a next-level craze — where players forget their worries and completely lose themselves in another world. 
 Here are a few small projects I’ve built so far.That’s the kind of experience I dream of building — something that makes players forget reality for a while.
 
 ---
+## 🔫 First-Person Shooter
+> A small First-Person Shooter (FPS) game built entirely using Unreal Engine 5’s Blueprint Visual Scripting.
+
+- 🎛️ Menu Widget
+- 🔫 Shooting functionality with hit detection
+- 🎯 Moving target system with dynamic behavior
+- 🏆 Score system on successful hits
+
+## 📂 Project Detail 
+[<img width="300" height="200" alt="FPS" src="https://github.com/user-attachments/assets/6d8a2740-118f-45ab-bcc0-09316a26cc6d" />](https://github.com/Aniket404Code/First-Person-Shooter.git)
+
 
 ## 🔫 Third-Person Shooter with AI Enemy
-
-![Third-Person Shooter](assets/third-person-shooter.gif)
-
 > A fully playable third-person shooter game with patrolling and attacking enemies.
 
 - 🎮 Unreal Engine 5 | C++
