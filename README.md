@@ -1,6 +1,6 @@
 # 🎮 Aniket - Portfolio
 
-**Beginner Game Developer | Unreal Engine 5 | FPS & Mechanics Prototypes**
+**Beginner Game Developer | Unreal Engine 5 | C++ & Visual Scripting**
 
 Hi, I’m Aniket Sahani — exploring game development through Unreal Engine. I'm passionate about creating combat systems, game mechanics, and AI behavior. I'm looking for opportunities to upskill my work and continue pursuing my passion for building and playing games — and ultimately be part of creating experiences that truly immerse players.
 
@@ -8,6 +8,17 @@ I admire games like COD , Battlefield , Devil May Cry , GTA , Mario, God Of War,
 Here are a few small projects I’ve built so far.That’s the kind of experience I dream of building — something that makes players forget reality for a while.
 
 ---
+## Sword Fight Prototype
+> A third-person action game featuring real-time sword combat, built in Unreal Engine.
+
+- Real-Time Sword Combat System
+- Enemy AI System
+- Damage & Health System
+- Healing System
+
+## 📂 Click for more detail
+[<img width="300" height="200" alt="sworddddddddddddd" src="https://github.com/user-attachments/assets/29d36930-48ea-4a5b-a8d4-fdcbc25a2452" />](https://github.com/Aniket404Code/SwordFight.git)
+
 ## 🔫 First-Person Shooter
 > A small First-Person Shooter (FPS) game built entirely using Unreal Engine 5’s Blueprint Visual Scripting.
 
@@ -16,7 +27,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 🎯 Moving target system with dynamic behavior
 - 🏆 Score system on successful hits
 
-## 📂 Project Detail 
+## 📂 Click for more detail
 [<img width="300" height="200" alt="FPS" src="https://github.com/user-attachments/assets/6d8a2740-118f-45ab-bcc0-09316a26cc6d" />](https://github.com/Aniket404Code/First-Person-Shooter.git)
 
 
@@ -28,7 +39,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 🔫 Shooting, Damage, Health System
 - 👣 Enemy Pathfinding
   
-## 📂 Project Detail 
+## 📂  Click for more detail
  [<img width="300" height="200" alt="SimpleShooter" src="https://github.com/user-attachments/assets/7e295e52-4c35-42a9-8d4d-78d79692cdd5" />](https://github.com/Aniket404Code/Third-Person-Shooter.git)
 
 ---
@@ -43,7 +54,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 📐 Physics simulation
 - 🧱 Obstacle avoidance and collision
 
-## 📂 Project Details
+## 📂  Click for more detail
 [<img width="300" height="200" alt="screeshot1" src="https://github.com/user-attachments/assets/ae828cd4-d8cd-491e-91da-9a2a7e741665" />](https://github.com/Aniket404Code/Ball-Shoot.git)
 
 ---
