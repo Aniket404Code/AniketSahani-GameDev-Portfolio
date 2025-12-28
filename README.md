@@ -43,6 +43,18 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
  [<img width="300" height="200" alt="SimpleShooter" src="https://github.com/user-attachments/assets/7e295e52-4c35-42a9-8d4d-78d79692cdd5" />](https://github.com/Aniket404Code/Third-Person-Shooter.git)
 
 ---
+## TankBlaster
+> Implemented enemy tank AI with range-based detection and automatic firing behavior.
+- Unreal Engine
+- Blueprint Visual Scripting / C++
+- AI Behavior & Range Detection
+- Game Logic & Level Management
+- Collision & Damage Systems
+  
+## 📂  Click for more detail
+ [ <img width="300" height="200" alt="TankBlaste" src="https://github.com/user-attachments/assets/44521aa3-5d2b-47e5-a1b6-22a02da9eb21" />](https://github.com/Aniket404Code/TankBlaster.git)
+
+---
 
 ## ⚽ Ball Shoot Over Obstacle
 
@@ -55,6 +67,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 🧱 Obstacle avoidance and collision
 
 ## 📂  Click for more detail
+
 [<img width="300" height="200" alt="screeshot1" src="https://github.com/user-attachments/assets/ae828cd4-d8cd-491e-91da-9a2a7e741665" />](https://github.com/Aniket404Code/Ball-Shoot.git)
 
 ---
