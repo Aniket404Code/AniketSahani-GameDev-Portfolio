@@ -8,6 +8,20 @@ I admire games like COD , Battlefield , Devil May Cry , GTA , Mario, God Of War,
 Here are a few small projects I’ve built so far.That’s the kind of experience I dream of building — something that makes players forget reality for a while.
 
 ---
+## Survive Zombie Prototype
+> 3D first person survival game.
+- 🧠 Advanced Unreal Engine C++ gameplay programming
+- 🏗️ Game architecture and modular system design
+- 🤖 AI enemy behavior and wave spawn systems
+- 🎮 Player input handling and character systems
+- 🧱 Collision detection and physics integration
+- 🎞️ Animation systems and ragdoll physics
+- 🐞 Debugging, logging, and problem solving
+- 🧩 Object-oriented programming (OOP) principles
+- 🖥️ UI/HUD development with UMG
+
+## 📂 Click for more detail and Gameplay demo
+  
 ## Sword Fight Prototype
 > A third-person action game featuring real-time sword combat, built in Unreal Engine.
 
@@ -16,7 +30,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - Damage & Health System
 - Healing System
 
-## 📂 Click for more detail
+## 📂 Click for more detail and Gameplay demo
 [<img width="300" height="200" alt="sworddddddddddddd" src="https://github.com/user-attachments/assets/29d36930-48ea-4a5b-a8d4-fdcbc25a2452" />](https://github.com/Aniket404Code/SwordFight.git)
 
 ## 🔫 First-Person Shooter
@@ -27,7 +41,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 🎯 Moving target system with dynamic behavior
 - 🏆 Score system on successful hits
 
-## 📂 Click for more detail
+## 📂 Click for more detail and Gameplay demo
 [<img width="300" height="200" alt="FPS" src="https://github.com/user-attachments/assets/6d8a2740-118f-45ab-bcc0-09316a26cc6d" />](https://github.com/Aniket404Code/First-Person-Shooter.git)
 
 
@@ -39,7 +53,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 🔫 Shooting, Damage, Health System
 - 👣 Enemy Pathfinding
   
-## 📂  Click for more detail
+## 📂  Click for more detail 
  [<img width="300" height="200" alt="SimpleShooter" src="https://github.com/user-attachments/assets/7e295e52-4c35-42a9-8d4d-78d79692cdd5" />](https://github.com/Aniket404Code/Third-Person-Shooter.git)
 
 ---
@@ -51,7 +65,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - Game Logic & Level Management
 - Collision & Damage Systems
   
-## 📂  Click for more detail
+## 📂  Click for more detail and Gameplay demo
  [ <img width="300" height="200" alt="TankBlaste" src="https://github.com/user-attachments/assets/44521aa3-5d2b-47e5-a1b6-22a02da9eb21" />](https://github.com/Aniket404Code/TankBlaster.git)
 
 ---
@@ -66,7 +80,7 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 📐 Physics simulation
 - 🧱 Obstacle avoidance and collision
 
-## 📂  Click for more detail
+## 📂  Click for more detail and Gameplay demo
 
 [<img width="300" height="200" alt="screeshot1" src="https://github.com/user-attachments/assets/ae828cd4-d8cd-491e-91da-9a2a7e741665" />](https://github.com/Aniket404Code/Ball-Shoot.git)
 
