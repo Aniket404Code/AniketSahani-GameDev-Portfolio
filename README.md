@@ -21,7 +21,8 @@ Here are a few small projects I’ve built so far.That’s the kind of experienc
 - 🖥️ UI/HUD development with UMG
 
 ## 📂 Click for more detail and Gameplay demo
-  
+[<img width="300" height="200" alt="SurviveZombie" src="https://github.com/user-attachments/assets/4ca9e8e0-1c90-4a72-b82a-3a7bf0a6238b" />](https://github.com/Aniket404Code/SurviveZombie.git)
+
 ## Sword Fight Prototype
 > A third-person action game featuring real-time sword combat, built in Unreal Engine.
 
