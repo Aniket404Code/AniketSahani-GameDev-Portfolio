@@ -1,3 +1,7 @@
+<img width="720" height="960" alt="Resume_2026_page-0001" src="https://github.com/user-attachments/assets/304995d1-2f1d-42b3-bd96-8c692e6e0731" />
+
+
+
 # 🎮 Aniket - Portfolio
 
 **Beginner Game Developer | Unreal Engine 5 | C++ & Visual Scripting**
